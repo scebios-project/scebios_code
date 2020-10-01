@@ -1,3 +1,6 @@
 [submodule "code_paper_FusionOMPLSP"]
 	path = code_paper_FusionOMPLSP
 	url = https://github.com/nikcleju/code_paper_FusionOMPLSP
+[submodule "code_paper_IterativeAffineProjections"]
+	path = code_paper_IterativeAffineProjections
+	url = https://github.com/nikcleju/code_paper_IterativeAffineProjections
