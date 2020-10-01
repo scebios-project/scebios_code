@@ -4,3 +4,6 @@
 [submodule "code_paper_IterativeAffineProjections"]
 	path = code_paper_IterativeAffineProjections
 	url = https://github.com/nikcleju/code_paper_IterativeAffineProjections
+[submodule "code_paper_NSTPrec"]
+	path = code_paper_NSTPrec
+	url = https://github.com/nikcleju/code_paper_NSTPrec
