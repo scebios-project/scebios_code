@@ -8,14 +8,18 @@ including the code which supports all the papers and manuscripts written during 
 The library consists of 6 submodules. For convenience, each has its own repository, such that it is possible to clone only
 one particular repository that you are interested in.
 
-|    Submodule  |  Description  |
-| ------------- | ------------- |
-| (Python) [code_paper_FusionOMPLSP](https://github.com/scebios-project/code_paper_FusionOMPLSP) | Accompanying code for the paper "Fusion of Orthogonal Matching Pursuit and Least Squares Pursuit for Robust Sparse Recovery".|
-| (Python) [code_paper_code_paper_IterativeAffineProjections](https://github.com/scebios-project/code_paper_code_paper_IterativeAffineProjections) | Accompanying code for the paper "Spectrum Insensitive Sparse Recovery with Iterative Affine Projections".|
-| (Matlab) [code_paper_PrecKSVD](https://github.com/scebios-project/code_paper_PrecKSVD) | Accompanying code for the manuscript "Preconditioned K-SVD for ECG Anomaly Detection".  This also contains the code for sparse coding on multichannel signals.|
-| (Python) [code_paper_NSTPrec](https://github.com/scebios-project/code_paper_NSTPrec) | Accompanying code for the manuscript "Null Space Tuning and Preconditioning for Ill-Conditioned Sparse Recovery".|
-| (Matlab) [code_ECG_BoW_Pat](https://github.com/scebios-project/code_ECG_BoW_Pat) | Code for the project results on pathology detection from ECG signals based on Sparse COding and Bag-of-Words".|
-| (Matlab) [code_ECG_BoW_Identif](https://github.com/scebios-project/code_ECG_BoW_Identif) | Code for the project results on person identification based on ECG signals based on Sparse Coding and Bag-of-Words".|
+Due to the nature of research, 3 submodules are developed in Python, and the other 3 in Matlab.
+
+A short description of the submodules is given here. More details about each one are provided below.
+
+|    Submodule  |  Language  | Description  |
+| ------------- | ---------- | ------------- |
+|[code_paper_FusionOMPLSP](https://github.com/scebios-project/code_paper_FusionOMPLSP) | Python | Accompanying code for the paper "Fusion of Orthogonal Matching Pursuit and Least Squares Pursuit for Robust Sparse Recovery".|
+|[code_paper_code_paper_IterativeAffineProjections](https://github.com/scebios-project/code_paper_code_paper_IterativeAffineProjections) | Python | Accompanying code for the paper "Spectrum Insensitive Sparse Recovery with Iterative Affine Projections".|
+|[code_paper_PrecKSVD](https://github.com/scebios-project/code_paper_PrecKSVD) | Matlab | Accompanying code for the manuscript "Preconditioned K-SVD for ECG Anomaly Detection".  This also contains the code for sparse coding on multichannel signals.|
+|[code_paper_NSTPrec](https://github.com/scebios-project/code_paper_NSTPrec) | Python | Accompanying code for the manuscript "Null Space Tuning and Preconditioning for Ill-Conditioned Sparse Recovery".|
+|[code_ECG_BoW_Pat](https://github.com/scebios-project/code_ECG_BoW_Pat) | Matlab | Code for the project results on pathology detection from ECG signals based on Sparse COding and Bag-of-Words".|
+|[code_ECG_BoW_Identif](https://github.com/scebios-project/code_ECG_BoW_Identif) | Matlab | Code for the project results on person identification based on ECG signals based on Sparse Coding and Bag-of-Words".|
 
 
 
