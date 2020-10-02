@@ -7,7 +7,7 @@ including the code which supports all the papers and manuscripts written during 
 ## Acknowledgment
 This work was supported by a grant of Ministery of Research and Innovation, CNCS - UEFISCDI, project number PN-III-P1-1.1-PD-2016-0127, within PNCDI III.
 
-## Organization
+## Organization of the repository
 The library consists of 6 submodules. For convenience, each has its own repository, such that it is possible to clone only
 one particular repository that you are interested in.
 
