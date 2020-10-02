@@ -4,6 +4,9 @@ This is the software library with code developed in the SCEBIOS project
 This repository contains the software library with all the code developed during the [SCEBIOS project](http://www.etti.legacy.tuiasi.ro/ncleju/scebios/),
 including the code which supports all the papers and manuscripts written during the project's implementation period.
 
+## Acknowledgment
+This work was supported by a grant of Ministery of Research and Innovation, CNCS - UEFISCDI, project number PN-III-P1-1.1-PD-2016-0127, within PNCDI III.
+
 ## Organization
 The library consists of 6 submodules. For convenience, each has its own repository, such that it is possible to clone only
 one particular repository that you are interested in.
@@ -47,3 +50,4 @@ To install only a specific submodule, run one of the following lines:
 ```git clone --recursive https://github.com/scebios-project/code_paper_PrecKSVD```
 
 ## Content
+To be updated
