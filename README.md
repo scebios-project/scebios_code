@@ -1,4 +1,4 @@
-# SCEBIOS Library (`scebios_lib`)
+# SCEBIOS Library (scebios_lib)
 This is the software library with code developed in the SCEBIOS project
 
 This repository contains the software library with all the code developed during the [SCEBIOS project](http://www.etti.legacy.tuiasi.ro/ncleju/scebios/),
