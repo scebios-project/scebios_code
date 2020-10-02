@@ -10,3 +10,6 @@
 [submodule "code_ECG_BoW_Identif"]
 	path = code_ECG_BoW_Identif
 	url = https://github.com/scebios-project/code_ECG_BoW_Identif
+[submodule "code_paper_PrecKSVD"]
+	path = code_paper_PrecKSVD
+	url = https://github.com/scebios-project/code_paper_PrecKSVD
