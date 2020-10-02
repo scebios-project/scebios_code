@@ -13,3 +13,6 @@
 [submodule "code_paper_PrecKSVD"]
 	path = code_paper_PrecKSVD
 	url = https://github.com/scebios-project/code_paper_PrecKSVD
+[submodule "code_ECG_BoW_Pat"]
+	path = code_ECG_BoW_Pat
+	url = https://github.com/scebios-project/code_ECG_BoW_Pat
