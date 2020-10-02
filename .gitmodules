@@ -7,3 +7,6 @@
 [submodule "code_paper_NSTPrec"]
 	path = code_paper_NSTPrec
 	url = https://github.com/nikcleju/code_paper_NSTPrec
+[submodule "code_ECG_BoW_Identif"]
+	path = code_ECG_BoW_Identif
+	url = https://github.com/scebios-project/code_ECG_BoW_Identif
